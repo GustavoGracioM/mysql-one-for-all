@@ -1,10 +1,11 @@
-# 🚧 README em construção 🚧
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# One For All
+
+
+One For All é um projeto do módulo de Back-End do curso de Desenvolvimento Web da <a href="https://www.betrybe.com/">Trybe</a>. O objetivo do projeto era normalizar um banco de dados e praticar conceitos de SQL. 
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Habilidades utilizadas
+
+* MySql
+
